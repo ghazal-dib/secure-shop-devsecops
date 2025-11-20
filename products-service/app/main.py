@@ -60,3 +60,4 @@ def create_product():
 if __name__ == "__main__":
     # Local development server. In production we run this using Docker + WSGI.
     app.run(host="0.0.0.0", port=5000)
+    #Done
